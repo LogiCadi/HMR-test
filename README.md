@@ -27,6 +27,7 @@
 先启动本地服务
 
 ```sh
+npm install
 cd src
 node server.js
 ```

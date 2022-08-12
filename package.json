@@ -1,0 +1,24 @@
+{
+  "name": "HMR-test",
+  "version": "1.0.0",
+  "description": "热更新（HMR）的原理简单示例",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LogiCadi/HMR-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LogiCadi/HMR-test/issues"
+  },
+  "homepage": "https://github.com/LogiCadi/HMR-test#readme",
+  "dependencies": {
+    "chokidar": "^3.5.3",
+    "socket.io": "^4.5.1"
+  }
+}
